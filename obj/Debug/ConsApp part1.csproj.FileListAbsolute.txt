@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day4\part1\ConsApp part1\ConsApp part1\bin\Debug\ConsApp part1.exe.config
+D:\mphasis\assignments\day4\part1\ConsApp part1\ConsApp part1\bin\Debug\ConsApp part1.exe
+D:\mphasis\assignments\day4\part1\ConsApp part1\ConsApp part1\bin\Debug\ConsApp part1.pdb
+D:\mphasis\assignments\day4\part1\ConsApp part1\ConsApp part1\obj\Debug\ConsApp part1.csproj.AssemblyReference.cache
+D:\mphasis\assignments\day4\part1\ConsApp part1\ConsApp part1\obj\Debug\ConsApp part1.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day4\part1\ConsApp part1\ConsApp part1\obj\Debug\ConsApp part1.exe
+D:\mphasis\assignments\day4\part1\ConsApp part1\ConsApp part1\obj\Debug\ConsApp part1.pdb
